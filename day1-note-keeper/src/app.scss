@@ -11,6 +11,8 @@
   body {
     background: #eee;
     padding: 0 16px;
+    display: flex;
+    flex-direction: row;
   }
   
   header {

@@ -4,7 +4,7 @@ import './style.scss';
 function Note() { 
     return (
         <div className="note">
-            <h2 className="note__title">Note</h2>
+            <h2 className="note__title">Note title</h2>
             <p className="note__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa, animi?</p>
         </div>
     )
